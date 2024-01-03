@@ -4,6 +4,9 @@ Get the ball to the goal as quickly as you can by tilting your phone on a number
 
 Features:
 Motion Controls using the accelerometer
+
 High Score tracking using SQL integration
+
 High Score sharing via Bluetooth
+
 Local multiplayer via Bluetooth
